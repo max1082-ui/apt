@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "477457097415",
+    "project_id": "aptekar-rf-325304",
+    "storage_bucket": "aptekar-rf-325304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477457097415:android:639f1d8badbe7a432dd4e2",
+        "android_client_info": {
+          "package_name": "rf.aptekar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477457097415-hqr1lgkat2is94kkkv2v06nveodnho8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7nOPI4ebRJ6dzsjoyehOecfI7CDABZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477457097415-hqr1lgkat2is94kkkv2v06nveodnho8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477457097415-oih3n4pm207t0pv4unnmnsgdrpho9ev8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rf.aptekar.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>477457097415-sj38mq57124g5s3vvd5u176gc3r03b1d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.477457097415-sj38mq57124g5s3vvd5u176gc3r03b1d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAipxR7dcFsW36U6HneF-o_48c7-o0OWWI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>477457097415</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>rf.aptekar.pharmacy</string>
+	<key>PROJECT_ID</key>
+	<string>aptekar-rf-325304</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aptekar-rf-325304.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:477457097415:ios:e673be63c57454432dd4e2</string>
+</dict>
+</plist>
